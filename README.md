@@ -1,5 +1,5 @@
 # nqueens-solver
-# Assignment of CSCI B 551 taught by Dr. Crandall at Indiana University Bloomington
+## Assignment of CSCI B 551 taught by Dr. Crandall at Indiana University Bloomington
 Python script to solve n-queens problem for given board size, using DFS and BFS. Also attempts to solve the board when certain positions are marked unavailable
 
 # Run
